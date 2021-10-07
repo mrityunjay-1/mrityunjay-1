@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mrityunjay.
-- 👀 I’m a Full Stack WebDeveloper.
+- 👀 I’m a Full Stack Web Developer.
 - 🌱 I’m currently learning AI.
 - 📫 kumarmrityunjay_@hotmail.com
 
